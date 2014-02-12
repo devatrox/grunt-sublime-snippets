@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+grunt.registerMultiTask('${1:taskname}', '${2:description}', function(${3}) {
+	${4}
+});${0}]]></content>
+	<tabTrigger>registermultitask</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.renameTask(${1:old}, ${2:new});${0}]]></content>
+	<tabTrigger>renametask</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

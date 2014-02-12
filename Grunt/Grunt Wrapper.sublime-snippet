@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+module.exports = function(grunt) {
+
+	grunt.initConfig({
+		${1}
+	});
+
+	${0}
+}
+]]></content>
+	<tabTrigger>grunt</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[${1:pkg}: grunt.file.readJSON(${2:'package.json'}),${0}]]></content>
+	<tabTrigger>readjson</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

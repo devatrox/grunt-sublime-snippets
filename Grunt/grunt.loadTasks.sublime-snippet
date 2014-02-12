@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.loadTasks(${1:taskpath});${0}]]></content>
+	<tabTrigger>loadtasks</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
