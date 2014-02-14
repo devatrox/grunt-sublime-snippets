@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[
+${1:concat}: {
+	${2:dist}: {
+		${0}
+	}
+},
+]]></content>
+	<tabTrigger>gruntconfig</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
