@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.file.exists(${1:path1})${0}]]></content>
+	<tabTrigger>exists</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

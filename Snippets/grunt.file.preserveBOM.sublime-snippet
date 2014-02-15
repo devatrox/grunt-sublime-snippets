@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.file.preserveBOM = ${1:false};${0}]]></content>
+	<tabTrigger>bom</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

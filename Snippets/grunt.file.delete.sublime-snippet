@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.file.delete(${1:filepath})${0}]]></content>
+	<tabTrigger>delete</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

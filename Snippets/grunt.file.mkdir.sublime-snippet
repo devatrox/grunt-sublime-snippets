@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.file.mkdir(${1:dirpath})${0}]]></content>
+	<tabTrigger>mkdir</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

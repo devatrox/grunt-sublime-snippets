@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.file.isFile(${1:path1})${0}]]></content>
+	<tabTrigger>isfile</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
