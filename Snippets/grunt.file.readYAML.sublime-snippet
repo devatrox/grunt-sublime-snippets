@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[grunt.file.readYAML(${1:'filename.yml'})${0}]]></content>
+	<content><![CDATA[grunt.file.readYAML(${1:filepath})${0}]]></content>
 	<tabTrigger>readyaml</tabTrigger>
 	<scope>source.js</scope>
 </snippet>

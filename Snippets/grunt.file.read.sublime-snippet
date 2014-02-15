@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[grunt.file.read(${1:'filename'})${0}]]></content>
+	<content><![CDATA[grunt.file.read(${1:filepath})${0}]]></content>
 	<tabTrigger>read</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
