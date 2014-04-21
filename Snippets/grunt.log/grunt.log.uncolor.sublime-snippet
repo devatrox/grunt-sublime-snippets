@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.uncolor(${1:str})${0}]]></content>
+	<tabTrigger>loguncolor</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.file.recurse(${1:rootdir}, ${2:callback})${0}]]></content>
+	<tabTrigger>recurse</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

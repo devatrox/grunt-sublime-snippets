@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.config.escape(${1:propString})${0}]]></content>
+	<tabTrigger>configescape</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

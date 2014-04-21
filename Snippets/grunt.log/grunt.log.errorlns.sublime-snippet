@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.errorlns(${1:msg})${0}]]></content>
+	<tabTrigger>logerrorlns</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.table(${1:widths}, ${2:texts})${0}]]></content>
+	<tabTrigger>logtable</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

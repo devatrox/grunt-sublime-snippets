@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+files: [
+	{
+		expand: true,
+		cwd: ${1:'.'},
+		src: [${2:src}],
+		dest: ${3:dest},${4}
+	},${0}
+],
+]]></content>
+	<tabTrigger>filesexpand</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

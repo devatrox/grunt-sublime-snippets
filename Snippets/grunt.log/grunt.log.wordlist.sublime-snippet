@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.wordlist(${1:arr}${2})${0}]]></content>
+	<tabTrigger>logwordlist</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

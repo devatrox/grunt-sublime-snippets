@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.wraptext(${1:width}, ${2:text})${0}]]></content>
+	<tabTrigger>logwraptext</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

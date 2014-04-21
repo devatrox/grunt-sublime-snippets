@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.error(${1:msg})${0}]]></content>
+	<tabTrigger>logerror</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

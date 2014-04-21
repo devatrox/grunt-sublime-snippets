@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+files: {
+	${1:dest}: [${2:src}]${0}
+},
+]]></content>
+	<tabTrigger>filesobject</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

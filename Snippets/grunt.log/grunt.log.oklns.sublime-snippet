@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.oklns(${1:msg})${0}]]></content>
+	<tabTrigger>logoklns</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

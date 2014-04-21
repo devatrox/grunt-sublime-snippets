@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.file.write(${1:filepath}, ${2:contents}${2})${0}]]></content>
+	<tabTrigger>write</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

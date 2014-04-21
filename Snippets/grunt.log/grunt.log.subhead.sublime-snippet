@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.subhead(${1:msg})${0}]]></content>
+	<tabTrigger>logsubhead</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

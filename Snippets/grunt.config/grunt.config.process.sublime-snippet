@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.config.process(${1:value})${0}]]></content>
+	<tabTrigger>configprocess</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

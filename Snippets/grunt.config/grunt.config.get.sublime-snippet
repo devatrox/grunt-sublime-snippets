@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.config.get(${1:prop})${0}]]></content>
+	<tabTrigger>configget</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.writeflags(${1:obj}, ${2:prefix})${0}]]></content>
+	<tabTrigger>logwriteflags</tabTrigger>
+	<scope>source.js</scope>
+</snippet>
