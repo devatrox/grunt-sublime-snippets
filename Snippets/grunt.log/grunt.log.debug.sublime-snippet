@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[grunt.log.debug(${1:msg})${0}]]></content>
+	<tabTrigger>logdebug</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

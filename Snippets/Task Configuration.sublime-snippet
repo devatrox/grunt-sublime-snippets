@@ -6,6 +6,6 @@ ${1:concat}: {
 	}
 },
 ]]></content>
-	<tabTrigger>gruntconfig</tabTrigger>
+	<tabTrigger>taskconfig</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
