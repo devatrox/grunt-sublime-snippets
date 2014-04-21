@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[grunt.loadNpmTasks('${1:grunt-contrib-uglify}');${0}]]></content>
+	<content><![CDATA[grunt.loadNpmTasks('${1:pluginName}');${0}]]></content>
 	<tabTrigger>loadnpmtasks</tabTrigger>
 	<scope>source.js</scope>
 </snippet>
